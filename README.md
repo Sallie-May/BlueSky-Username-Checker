@@ -2,6 +2,7 @@
 
 This Python script resolves the availability of Bluesky handles (e.g., `@handle.bsky.social`). It checks whether the handle is already taken or if it is available, using the Bluesky API.
 
+Want to follow me? https://bsky.app/profile/bee-lzebub.bsky.social
 ## Features
 
 - Resolves whether a handle is available or taken on Bluesky.
